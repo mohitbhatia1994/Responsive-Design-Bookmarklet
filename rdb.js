@@ -1,5 +1,4 @@
-javascript:document.write('
-<!DOCTYPE html>
+javascript:document.write('<!DOCTYPE html>
 <html>
 <head>
     <meta charset="utf-8">
